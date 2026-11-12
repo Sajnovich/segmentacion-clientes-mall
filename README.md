@@ -6,6 +6,8 @@ Alejandro Cáceres (Jefe de proyecto) · Cristian Chicaisa (Data Engineer) · Ed
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sajnovich/segmentacion-clientes-mall/blob/main/notebooks/EP5_Segmentacion_Clientes.ipynb)
 [![Pipeline y pruebas](https://github.com/Sajnovich/segmentacion-clientes-mall/actions/workflows/pipeline.yml/badge.svg)](https://github.com/Sajnovich/segmentacion-clientes-mall/actions/workflows/pipeline.yml)
 
+**Dashboard en línea:** https://segmentacion-clientes-mall.vercel.app
+
 Segmentación con K-Means (k = 5) de 200 clientes usando **solo** ingreso anual y Spending Score.
 Las variables demográficas se usan únicamente para perfilar y auditar.
 
