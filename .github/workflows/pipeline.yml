@@ -1,0 +1,30 @@
+name: Pipeline y pruebas
+
+# Automatización: cada vez que se sube un cambio se reconstruye el modelo,
+# los listados y las métricas, y se corren las 7 pruebas de aceptación.
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar librerías
+        run: pip install -r requirements.txt
+      - name: Ejecutar el pipeline
+        run: python src/pipeline.py
+      - name: Pruebas de aceptación
+        run: python tests/test_reglas.py
+      - name: Guardar resultados
+        uses: actions/upload-artifact@v4
+        with:
+          name: resultados-segmentacion
+          path: |
+            outputs/metricas.json
+            outputs/fichas_segmentos.csv
+            outputs/listados/

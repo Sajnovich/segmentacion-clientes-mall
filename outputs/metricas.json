@@ -1,0 +1,13 @@
+{
+  "k": 5,
+  "silhouette": 0.555,
+  "segmento_mas_chico_pct": 11.0,
+  "ari_min_20_semillas": 1.0,
+  "cumple_RNF1": true,
+  "cumple_RNF2": true,
+  "clientes_excluidos_credito": 30,
+  "variables_fit": [
+    "ingreso_anual_k",
+    "spending_score"
+  ]
+}

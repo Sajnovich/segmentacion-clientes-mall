@@ -1,0 +1,201 @@
+id_anon,genero,edad,educacion,estado_civil,ingreso_anual_k,spending_score
+f304c1dc83da,M,19,High School,Married,15,39
+5517ad09745e,M,21,Graduate,Single,15,81
+977f31f5e44d,F,20,Graduate,Married,16,6
+ab00d48d1df6,F,23,High School,Unknown,16,77
+a4e497f05e8e,F,31,Uneducated,Married,17,40
+095f5791cb87,F,22,Graduate,Married,17,76
+0d9e8e9e0766,F,35,Unknown,Married,18,6
+763139fedd32,F,23,High School,Unknown,18,94
+ea8185b3c36d,M,64,Uneducated,Single,19,3
+9518051fd6f6,F,30,Graduate,Single,19,72
+213e370ea927,M,67,Uneducated,Unknown,19,14
+e28f2639406a,F,35,Unknown,Married,19,99
+43c2892a9dcd,F,58,College,Single,20,15
+f4fe64ce3a57,F,24,Graduate,Unknown,20,77
+3a9f4b668d66,M,37,Graduate,Married,20,13
+e44f90a42ff3,M,22,Unknown,Unknown,20,79
+13a878de5bff,F,35,Post-Graduate,Single,21,35
+308527c978ad,M,20,Unknown,Married,21,66
+b7f30de345f8,M,52,High School,Married,23,29
+3e225bd9b078,F,35,Graduate,Married,23,98
+53e08eda36e4,M,35,Doctorate,Divorced,24,35
+b268073602c8,M,25,Graduate,Married,24,73
+cdd28e825b5f,F,46,High School,Married,25,5
+f4a5eb6d32e4,M,31,Unknown,Single,25,73
+978b09018a43,F,54,Unknown,Married,28,14
+0678e0dbdf69,M,29,Graduate,Single,28,82
+0bd37fac5c52,F,45,High School,Unknown,28,32
+fd4676bc2824,M,35,Unknown,Married,28,61
+16a1ed600c84,F,40,Uneducated,Single,29,31
+743835f54e3e,F,23,High School,Married,29,87
+059eb375246b,M,60,Unknown,Married,30,4
+d4afa3476ebe,F,21,Uneducated,Married,30,73
+3ead019f48d2,M,53,Graduate,Married,33,4
+31198ffa3c7c,M,18,College,Married,33,92
+579b408f310e,F,49,Graduate,Married,33,14
+4eddd8157da1,F,21,College,Single,33,81
+38296efc165d,F,42,Graduate,Married,34,17
+5ac7e5477dc7,F,30,High School,Married,34,73
+c9b69c8da4a3,F,36,Graduate,Unknown,37,26
+68a1118860e2,F,20,Doctorate,Married,37,75
+10619ffe0f53,F,65,Graduate,Single,38,35
+0ebfaa22d587,M,24,Unknown,Married,38,92
+26303967873c,M,48,College,Single,39,36
+82ce36009615,F,31,High School,Married,39,61
+13c3b521cf06,F,49,Graduate,Single,39,28
+faeafa0ff974,F,24,Uneducated,Single,39,65
+9c61383c0f9c,F,50,Doctorate,Married,40,55
+9fcc20fc5f42,F,27,Doctorate,Married,40,47
+a04fd261a3f1,F,29,High School,Married,40,42
+016168a36cd2,F,31,College,Single,40,42
+a9837b5db055,F,49,Unknown,Married,42,52
+9b77f4408803,M,33,Graduate,Married,42,60
+ab458c50b00d,F,31,High School,Married,43,54
+b6707bc6ec39,M,59,Unknown,Married,43,60
+e910440a06c5,F,50,Graduate,Married,43,45
+207b65187d0f,M,47,Graduate,Unknown,43,41
+4bac3549f391,F,51,Graduate,Single,44,50
+b2c64589fbe5,M,69,Uneducated,Married,44,46
+cdf54ffd26df,F,27,Graduate,Married,46,51
+790180d3ae88,M,53,High School,Single,46,46
+7e65dd26faeb,M,70,Unknown,Married,46,56
+891ca21db25e,M,19,Graduate,Married,46,55
+5bffc4b07d77,F,67,High School,Divorced,47,52
+efc2699a0424,F,54,Post-Graduate,Single,47,59
+be929c4c1b66,M,63,High School,Single,48,51
+d038cc9c905f,M,18,Uneducated,Single,48,59
+4fabcc080f68,F,43,College,Married,48,50
+a50ea7a451bc,F,68,Uneducated,Single,48,48
+cffda284abde,M,19,Graduate,Married,48,59
+2e0481929763,F,32,Doctorate,Married,48,47
+9a2ee7080309,M,70,Graduate,Single,49,55
+f3f17b5dee8e,F,47,Graduate,Married,49,42
+6d31dd8fed9f,F,60,Graduate,Unknown,50,49
+02a4c11c3869,F,60,Uneducated,Married,50,56
+2cb45485cc46,M,59,College,Single,54,47
+0d3ee9efa82c,M,26,Graduate,Single,54,54
+c7b123f23f76,F,45,Graduate,Single,54,53
+07688a9d9132,M,40,Uneducated,Single,54,48
+e2c9c6df71ff,F,23,Graduate,Divorced,54,52
+8dc6ec0cbdf7,F,49,Graduate,Married,54,42
+cdee41d25766,M,57,Graduate,Married,54,51
+c82a714ceaf5,M,38,Unknown,Unknown,54,55
+98a45355fec1,M,67,Unknown,Married,54,41
+4f14b8218899,F,46,Graduate,Married,54,44
+68712ed9eac6,F,21,Graduate,Divorced,54,57
+343bc9dcf914,M,48,Graduate,Married,54,46
+22d99b146203,F,55,High School,Single,57,58
+6aac2fc06b6a,F,22,Uneducated,Single,57,55
+3fa4fe585de7,F,34,High School,Single,58,60
+d6f276c75819,F,50,Unknown,Married,58,46
+b86bb8f2094c,F,68,High School,Single,59,55
+8c536bfe39ab,M,18,High School,Single,59,41
+8b001cea841f,M,48,Graduate,Single,60,49
+b24dbe4d77dd,F,40,Graduate,Single,60,40
+16d37a0e1949,F,32,Unknown,Married,60,42
+63ddd341d017,M,24,Graduate,Married,60,52
+00a2dd30d8cb,F,47,Graduate,Married,60,47
+2b7ec3b85822,F,27,Doctorate,Married,60,50
+dfdc77eb2c92,M,48,College,Married,61,42
+6910c6cabec2,M,20,Unknown,Married,61,49
+3a52f22d73a6,F,23,College,Single,62,41
+60c6d80f1ad6,F,49,Unknown,Married,62,48
+1948db9f3a2c,M,67,Graduate,Married,62,59
+325a24b47670,M,26,Graduate,Single,62,55
+28091f24edd2,M,49,High School,Unknown,62,56
+3f99961e2bba,F,21,Post-Graduate,Married,62,42
+f331a69e5748,F,66,Post-Graduate,Single,63,50
+64c3e4012d50,M,54,Uneducated,Married,63,46
+dea41866d1ce,M,68,Unknown,Married,63,43
+e76aed4ee157,M,66,Unknown,Divorced,63,48
+55334f12b41a,M,65,Graduate,Married,63,52
+e9b3dbf0d543,F,19,Unknown,Married,63,54
+d61c0ae13ad7,F,38,High School,Divorced,64,42
+cdb255c37d90,M,19,Uneducated,Married,64,46
+0fecf5ccbd57,F,18,Graduate,Single,65,48
+fc6dca32fad9,F,19,Graduate,Single,65,50
+c466b99cdb07,F,63,High School,Unknown,65,43
+0234764f57bb,F,49,High School,Single,65,59
+70f9f1a6e067,F,51,Doctorate,Married,67,43
+0a8a7275bfec,F,50,High School,Married,67,57
+48b11d84edb9,M,27,Graduate,Single,67,56
+1936fe45a45a,F,38,Doctorate,Married,67,40
+08db95df6a9b,F,40,High School,Married,69,58
+b10a9385344c,M,39,High School,Single,69,91
+b8fa21790d49,F,23,College,Single,70,29
+29cfd1e64fb0,F,31,Graduate,Single,70,77
+42b1e8fda145,M,43,Graduate,Single,71,35
+bca156c13346,M,40,Graduate,Married,71,95
+b2ea42870e7d,M,59,High School,Single,71,11
+3c5487ce8dea,M,38,Uneducated,Unknown,71,75
+665aa450de16,M,47,Graduate,Married,71,9
+435b5e0f151d,M,39,Unknown,Married,71,75
+9155579c0963,F,25,Graduate,Married,72,34
+02c61682da0b,F,31,Graduate,Married,72,71
+17f8766f30a0,M,20,Doctorate,Single,73,5
+943d07affe55,F,29,Graduate,Single,73,88
+bb9888621656,F,44,High School,Divorced,73,7
+1d326fdedb09,M,32,College,Divorced,73,73
+4e92432048dc,M,19,College,Married,74,10
+b75911c47fa1,F,35,Post-Graduate,Single,74,72
+a82ed221bfae,F,57,High School,Married,75,5
+acb95882d333,M,32,Unknown,Single,75,93
+dd0bcaa7382c,F,28,Graduate,Married,76,40
+caff75498501,F,32,Graduate,Single,76,87
+0b181e0f0255,M,25,College,Single,77,12
+cc55214d2880,M,28,Uneducated,Married,77,97
+95574c6df9c5,M,48,Graduate,Single,77,36
+f1bf9b3ee633,F,32,Graduate,Married,77,74
+398e25fa3906,F,34,Graduate,Married,78,22
+0cda7d852472,M,34,High School,Married,78,90
+5d22b1edba60,M,43,High School,Single,78,17
+aa0ed5620621,M,39,Graduate,Married,78,88
+f91ee93c835c,F,44,Graduate,Single,78,20
+90a90e82a9b4,F,38,Uneducated,Single,78,76
+a8652b0d0be5,F,47,College,Married,78,16
+da13a49e5548,F,27,Unknown,Married,78,89
+6fc4738a6f2b,M,37,High School,Single,78,1
+3a5a0aaafd81,F,30,Doctorate,Married,78,78
+f5a2d5219a49,M,34,Uneducated,Married,78,1
+3a9a28b915b9,F,30,Graduate,Divorced,78,73
+daf873410cbd,F,56,High School,Married,79,35
+e2ca62be065e,F,29,College,Single,79,83
+c7f4da5bc686,M,19,Uneducated,Married,81,5
+232ca677542e,F,31,Unknown,Divorced,81,93
+6b1beeed937d,M,50,Uneducated,Married,85,26
+527a8bc89bca,F,36,Uneducated,Married,85,75
+c023d26b400c,M,42,Uneducated,Married,86,20
+dbb180f21431,F,33,Uneducated,Married,86,95
+fdb065b7ecba,F,36,Graduate,Single,87,27
+df41b283dab4,M,32,High School,Married,87,63
+0ac17cd45196,M,40,Uneducated,Divorced,87,13
+96ad63e3c1cc,M,28,High School,Married,87,75
+f26d5edaf1f1,M,36,Unknown,Married,87,10
+be5a61a9bc30,M,36,High School,Married,87,92
+0242ef7118c7,F,52,High School,Married,88,13
+73fca8eb140d,F,30,Graduate,Divorced,88,86
+8ded0cd4131c,M,58,Uneducated,Married,88,15
+78c778e11513,M,27,Graduate,Married,88,69
+08968a7b2471,M,59,Uneducated,Single,93,14
+3d7a26ba3c92,M,35,Uneducated,Married,93,90
+05f881aa6c15,F,37,Uneducated,Married,97,32
+d9bfa944a99f,F,32,Graduate,Married,97,86
+5f868bcf353e,M,46,Uneducated,Married,98,15
+3aafc5537d37,F,29,Graduate,Married,98,88
+39de3101b5cc,F,41,Graduate,Married,99,39
+be827797cc4e,M,30,Uneducated,Single,99,97
+13cf30261574,F,54,Post-Graduate,Single,101,24
+fd5d14fa123a,M,28,College,Single,101,68
+0392ef109acc,F,41,High School,Married,103,17
+d0801c775c21,F,36,Post-Graduate,Married,103,85
+d1e461eaee4a,F,34,Graduate,Married,103,23
+0ae00e49e005,F,32,Graduate,Unknown,103,69
+cd0b73000adc,M,33,Graduate,Married,113,8
+277d652a8f29,F,38,Doctorate,Married,113,91
+a1247fd4bc58,F,47,Post-Graduate,Married,120,16
+64f692533827,F,35,High School,Married,120,79
+54bdfd64fbaa,F,45,High School,Unknown,126,28
+fecaa24a908e,M,32,Uneducated,Married,126,74
+d1b85e18d298,M,32,High School,Married,137,18
+c4aea1f92f24,M,30,College,Married,137,83

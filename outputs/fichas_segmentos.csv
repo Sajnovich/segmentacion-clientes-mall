@@ -1,0 +1,6 @@
+segmento,nombre,clientes,pct_clientes,ingreso_prom_k,gasto_prom,edad_prom,edad_min,edad_max,pct_mujeres,ingreso_menor_30k,pct_educ_unknown
+A,Equilibrados,81,40.5,55.3,49.5,42.7,18,70,59.3,0,14.8
+B,Premium,39,19.5,86.5,82.1,32.7,27,40,53.8,0,10.3
+C,Jóvenes de alto gasto,22,11.0,25.7,79.4,25.3,18,35,59.1,15,27.3
+D,Alto ingreso cauteloso,35,17.5,88.2,17.1,41.1,19,59,45.7,0,2.9
+E,Ahorradores,23,11.5,26.3,20.9,45.2,19,67,60.9,15,13.0
